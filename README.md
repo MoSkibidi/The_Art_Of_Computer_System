@@ -1,1 +1,1 @@
-"# The_Art_Of_Computer_System" 
+"Computer System is a course that teaches the fundamentals of computer systems, starting from combining logic gates to form the basic hardware we are familiar with, such as RAM or CPU. Then, we use the hardware we build to create simple assembly code, which serves as a foundation for developing higher-level programming languages."
